@@ -1,3 +1,0 @@
-library(SportsAnalytics)
-library(data.table)
-nba1516 <- data.table(fetch_NBAPlayerStatistics('15-16'))
